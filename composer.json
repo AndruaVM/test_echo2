@@ -1,0 +1,15 @@
+{
+    "name":"av/test",
+    "description":"test project",
+    "license":"-",
+    "authors":[
+        {
+            "name":"Pots",
+            "email":"Pots@po.ts"
+        }
+    ],
+    "require": {
+        "getjump/vk": "*",
+        "mustangostang/spyc": "^0.6.2"
+    }
+}
