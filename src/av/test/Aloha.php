@@ -1,5 +1,6 @@
 <?php
 namespace av\test;
+require_once '../../../vendor/autoload.php';
 /**
  * Created by PhpStorm.
  * User: User
