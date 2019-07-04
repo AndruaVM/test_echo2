@@ -5,3 +5,4 @@
 .idea/workspace.xml
 # composer itself is not needed
 composer.phar
+/vendor
