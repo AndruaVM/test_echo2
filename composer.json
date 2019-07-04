@@ -9,7 +9,13 @@
         }
     ],
     "require": {
+        "php": ">=5.5.0",
         "getjump/vk": "*",
         "mustangostang/spyc": "^0.6.2"
+    },
+    "autoload":{
+        "psr-4":{
+            "av\\test\\": "src/av/test/"
+        }
     }
 }

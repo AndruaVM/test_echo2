@@ -1,5 +1,5 @@
 <?php
-
+namespace av\test;
 /**
  * Created by PhpStorm.
  * User: User
