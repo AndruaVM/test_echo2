@@ -1,5 +1,5 @@
 {
-    "name":"AndruaVM/test",
+    "name":"andruavm/test",
     "description":"test project",
     "license":"-",
     "authors":[
@@ -15,7 +15,7 @@
     },
     "autoload":{
         "psr-4":{
-            "AndruaVM\\test\\": "src/AndruaVM/test/"
+            "andruavm\\test\\": "src/andruavm/test/"
         }
     }
 }

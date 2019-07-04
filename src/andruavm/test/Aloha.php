@@ -1,5 +1,5 @@
 <?php
-namespace AndruaVM\test;
+namespace andruavm\test;
 require_once '../../../vendor/autoload.php';
 /**
  * Created by PhpStorm.
