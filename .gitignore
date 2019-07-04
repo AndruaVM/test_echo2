@@ -3,3 +3,5 @@
 .idea/workspace.xml
 *.xml
 .idea/workspace.xml
+# composer itself is not needed
+composer.phar
