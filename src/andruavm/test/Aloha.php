@@ -1,5 +1,7 @@
 <?php
 namespace andruavm\test;
+use andruavm\random\RandomSymbol;
+
 require_once '../../../vendor/autoload.php';
 /**
  * Created by PhpStorm.
@@ -15,3 +17,4 @@ class Aloha
     }
 }
 echo (new Aloha())->getOne();
+echo (new RandomSymbol())->getSymbol();

@@ -11,7 +11,9 @@
     "require": {
         "php": ">=5.5.0",
         "getjump/vk": "*",
-        "mustangostang/spyc": "^0.6.2"
+        "mustangostang/spyc": "^0.6.2",
+        "andruavm/random": "*",
+        "bitrix-expert/niceaccess": "0.1.0"
     },
     "autoload":{
         "psr-4":{
